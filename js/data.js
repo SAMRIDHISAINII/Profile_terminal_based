@@ -30,6 +30,6 @@ var data = {
       {name: 'Instagram(CodeArryena)', value: 'https://www.instagram.com/codearryena/'},
       {name: 'Blogs', value: 'https://medium.com/@samridhisaini02002'},
       {name: 'Youtube', value: 'https://www.youtube.com/channel/UCdSTb4QUpWyjqA0dOZzWqwA'},
-      
+      {name: 'Codearryena Website', value: 'https://codearreyna.vercel.app/'}
     ]
   }
