@@ -21,6 +21,7 @@ var data = {
       {name: 'GitHub', value: 'SAMRIDHISAINII'}
       
     ],
+    resume: 'Samridhi.pdf',
     
     socials: [
       
