@@ -10,6 +10,7 @@ function functionCalls() {
     checkPressedEnter();
 }
 
+
 function checkWindowClick() {
     
     terminalBody.addEventListener ('click', function(event){
